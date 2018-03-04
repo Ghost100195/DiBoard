@@ -70,7 +70,8 @@ export default {
     data() {
         return {
             replyMessage: '',
-            replyMessageType: 'mail_outline'
+            replyMessageType: 'mail_outline',
+            test: ''
         };
     },    
     props: ['message', 'opened'],
