@@ -1,0 +1,2282 @@
+[
+  {
+    "createdTimestamp": 1518697219681,
+    "id": "413670864295559170",
+    "cleanContent": "do you need a heatsink for a rpi",
+    "author": {
+      "id": "266970525572530176",
+      "username": "xavrr",
+      "avatarURL": "https://cdn.discordapp.com/avatars/266970525572530176/b3eb5153b0f647672ebda5358c718a1f.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697226006,
+    "id": "413670890824531969",
+    "cleanContent": "no",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697228216,
+    "id": "413670900093812746",
+    "cleanContent": "no",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697230099,
+    "id": "413670907991818240",
+    "cleanContent": "to some extent, Source",
+    "author": {
+      "id": "115076505549144067",
+      "username": "Aurieh",
+      "avatarURL": "https://cdn.discordapp.com/avatars/115076505549144067/a_9bacea0a732d561ebaf0cf9c6006b649.gif"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697230099,
+    "id": "413670907991818241",
+    "cleanContent": "to some extent, Source",
+    "author": {
+      "id": "115076505549144067",
+      "username": "Aurieh",
+      "avatarURL": "https://cdn.discordapp.com/avatars/115076505549144067/a_9bacea0a732d561ebaf0cf9c6006b649.gif"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697230099,
+    "id": "413670907991818240413670907991818240",
+    "cleanContent": "to some extent, Source https://www.youtube.com/watch?v=9QGyKbxhjzc",
+    "author": {
+      "id": "115076505549144067",
+      "username": "Aurieh",
+      "avatarURL": "https://cdn.discordapp.com/avatars/115076505549144067/a_9bacea0a732d561ebaf0cf9c6006b649.gif"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697232334,
+    "id": "413670917366087690",
+    "cleanContent": "ok",
+    "author": {
+      "id": "266970525572530176",
+      "username": "xavrr",
+      "avatarURL": "https://cdn.discordapp.com/avatars/266970525572530176/b3eb5153b0f647672ebda5358c718a1f.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697232796,
+    "id": "413670919303594024",
+    "cleanContent": "But you can use one",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697233365,
+    "id": "413670921690284032",
+    "cleanContent": "",
+    "author": {
+      "id": "240831370560012289",
+      "username": "Stori3D_Past",
+      "avatarURL": "https://cdn.discordapp.com/avatars/240831370560012289/46c96b9f441ff3426572a7830c9052d0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "313704145695670273",
+      "name": "modding",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697234065,
+    "id": "413670924626427904",
+    "cleanContent": "Oh https://www.youtube.com/watch?v=9QGyKbxhjzc",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697235309,
+    "id": "413670929843879936",
+    "cleanContent": "someone told me you did",
+    "author": {
+      "id": "266970525572530176",
+      "username": "xavrr",
+      "avatarURL": "https://cdn.discordapp.com/avatars/266970525572530176/b3eb5153b0f647672ebda5358c718a1f.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697237232,
+    "id": "413670937909788672",
+    "cleanContent": "So aurieh",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697241843,
+    "id": "413670957249462275",
+    "cleanContent": "```cs\nprivate async Task CheckEnabledPublicModule([Remainder] IGuild g = null)\n{\n    if (g == null) g = Context.Guild;\n    \n    if (!File.Exists($\"./serv_configs/{g.Id.ToString()}.rconf\"))\n    {\n        await ReplyAsync(ModStrings.GuildNoConfigFile);\n        return;\n    }\n \n    var fileText = File.ReadAllText($\"./serv_configs/{g.Id.ToString()}.rconf\");\n    var mods = JsonConvert.DeserializeObject<Config.Modules>(fileText);\n\n    if (mods.Guild != g.Id)\n    {\n        await ReplyAsync(\n                \"Specified Guild ID doesn't match saved Guild ID in config file.\"); // This should actually never happen\n        return;\n    }\n    if (mods.ModPub == 1) // Check for the Public Module to be enabled\n    {\n        modEnable = 1;\n        return;\n    }\n    modEnable = 0;\n}\n```",
+    "author": {
+      "id": "166878960498638848",
+      "username": "SystemWizard",
+      "avatarURL": "https://cdn.discordapp.com/avatars/166878960498638848/69f6e48ff0ec9df9bcb248c85d19e938.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697245124,
+    "id": "413670971011104768",
+    "cleanContent": "The duck didn't have time for this.  ·°'\\`'°-.,¸¸.·°'\\`",
+    "author": {
+      "id": "187636089073172481",
+      "username": "DuckHunt",
+      "avatarURL": "https://cdn.discordapp.com/avatars/187636089073172481/bfeaec8de6bfb59b0a313ced7af98835.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697247594,
+    "id": "413670981371035648",
+    "cleanContent": "oreo",
+    "author": {
+      "id": "99742488666845184",
+      "username": "Ovyerus",
+      "avatarURL": "https://cdn.discordapp.com/avatars/99742488666845184/b28ee155d34f363afa84a691cb7364bb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697248945,
+    "id": "413670987037409280",
+    "cleanContent": "I made it smaller xD",
+    "author": {
+      "id": "166878960498638848",
+      "username": "SystemWizard",
+      "avatarURL": "https://cdn.discordapp.com/avatars/166878960498638848/69f6e48ff0ec9df9bcb248c85d19e938.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697250813,
+    "id": "413670994872500229",
+    "cleanContent": "keep in mind I prefer C, less overabstraction",
+    "author": {
+      "id": "115076505549144067",
+      "username": "Aurieh",
+      "avatarURL": "https://cdn.discordapp.com/avatars/115076505549144067/a_9bacea0a732d561ebaf0cf9c6006b649.gif"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697252368,
+    "id": "413671001394642956",
+    "cleanContent": "do you know c++ or are you good at ir",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697258683,
+    "id": "413671027881672704",
+    "cleanContent": "Oh just wtf. Now i'm going to build that base i was talking about <:lul:311580125487693825> blablablablalblablalblabl djwhdiu udhwuhdiua cusahchbascuih  dwugaduozwgduzgw duiwdhgwoizdhgaw diuhdiuw hda csgczugcwah ohcchg wioahbc oiacg wazu7",
+    "author": {
+      "id": "149056576907509761",
+      "username": "RIPerKilla",
+      "avatarURL": "https://cdn.discordapp.com/avatars/149056576907509761/fa3d9b8a4759fd8501a689b4a4b91a22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697265230,
+    "id": "413671055341649920",
+    "cleanContent": "Either i am calling the task wrong on each command or... *head explodes*",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697269156,
+    "id": "413671071808618516",
+    "cleanContent": "stfu",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "132632676225122304",
+      "name": "testing-[\\]",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697270042,
+    "id": "413671075524771850",
+    "cleanContent": "Cuz I just is c++, but I'm not good at it",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697273777,
+    "id": "413671091190497281",
+    "cleanContent": "no",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "132632676225122304",
+      "name": "testing-[\\]",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697276014,
+    "id": "413671100573155330",
+    "cleanContent": "neither",
+    "author": {
+      "id": "115076505549144067",
+      "username": "Aurieh",
+      "avatarURL": "https://cdn.discordapp.com/avatars/115076505549144067/a_9bacea0a732d561ebaf0cf9c6006b649.gif"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697278043,
+    "id": "413671109083398145",
+    "cleanContent": "stfu",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "117018340114825217",
+      "name": "testing-voice",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697279934,
+    "id": "413671117014827010",
+    "cleanContent": "no",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "117018340114825217",
+      "name": "testing-voice",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697280632,
+    "id": "413671119942582272",
+    "cleanContent": "aight",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697281250,
+    "id": "413671122534531082",
+    "cleanContent": "No",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "117018340114825217",
+      "name": "testing-voice",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697281900,
+    "id": "413671125260828679",
+    "cleanContent": "Thanks ~~Obama~~ Matterom",
+    "author": {
+      "id": "149056576907509761",
+      "username": "RIPerKilla",
+      "avatarURL": "https://cdn.discordapp.com/avatars/149056576907509761/fa3d9b8a4759fd8501a689b4a4b91a22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697282817,
+    "id": "413671129107136512",
+    "cleanContent": "Stfu",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "117018340114825217",
+      "name": "testing-voice",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697283498,
+    "id": "413671131963457536",
+    "cleanContent": "What is modEnable?",
+    "author": {
+      "id": "166878960498638848",
+      "username": "SystemWizard",
+      "avatarURL": "https://cdn.discordapp.com/avatars/166878960498638848/69f6e48ff0ec9df9bcb248c85d19e938.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697283907,
+    "id": "413671133678927873",
+    "cleanContent": "STFU",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "117018340114825217",
+      "name": "testing-voice",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697288993,
+    "id": "413671155010895882",
+    "cleanContent": "no",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697290755,
+    "id": "413671162401390592",
+    "cleanContent": "No",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697290842,
+    "id": "413671162766163978",
+    "cleanContent": "",
+    "author": {
+      "id": "410162413468647424",
+      "username": "Dragon Bot",
+      "avatarURL": "https://cdn.discordapp.com/avatars/410162413468647424/caeb205831e4eb11255ca98bd70a654b.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697292180,
+    "id": "413671168378142722",
+    "cleanContent": "The switch",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697294372,
+    "id": "413671177572319233",
+    "cleanContent": "<@!191231307290771456> what lib are you using for kotlin",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697294625,
+    "id": "413671178633347092",
+    "cleanContent": "stfu",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697294751,
+    "id": "413671179161960479",
+    "cleanContent": "<@302153966442250240>,  no you stfu",
+    "author": {
+      "id": "348963918594441218",
+      "username": "Joe-bot",
+      "avatarURL": "https://cdn.discordapp.com/avatars/348963918594441218/c116645ab6779f6de87f3da509f6a29b.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697295394,
+    "id": "413671181858766848",
+    "cleanContent": "Gg",
+    "author": {
+      "id": "236281854188060672",
+      "username": "mjr121",
+      "avatarURL": "https://cdn.discordapp.com/avatars/236281854188060672/2b1c1d9650d94ba02e86571edde64fa3.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697296797,
+    "id": "413671187743506442",
+    "cleanContent": "Even better, position itself above the ground, convert to station, and build itsway into the ground",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697300319,
+    "id": "413671202515714048",
+    "cleanContent": "Those little invisible blocks obviously get in the way of placing other blocks",
+    "author": {
+      "id": "240831370560012289",
+      "username": "Stori3D_Past",
+      "avatarURL": "https://cdn.discordapp.com/avatars/240831370560012289/46c96b9f441ff3426572a7830c9052d0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "313704145695670273",
+      "name": "modding",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697302897,
+    "id": "413671213328498688",
+    "cleanContent": "STFU",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697302923,
+    "id": "413671213437681665",
+    "cleanContent": "<@!280001404020588544> jda",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697303524,
+    "id": "413671215958327309",
+    "cleanContent": "<@302153966442250240>,  no you stfu",
+    "author": {
+      "id": "348963918594441218",
+      "username": "Joe-bot",
+      "avatarURL": "https://cdn.discordapp.com/avatars/348963918594441218/c116645ab6779f6de87f3da509f6a29b.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697308612,
+    "id": "413671237299077120",
+    "cleanContent": "^",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697309361,
+    "id": "413671240440610816",
+    "cleanContent": "No",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697309881,
+    "id": "413671242621648896",
+    "cleanContent": "Like if the flag mod_pub is on 1, modEnable is set to 1",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697310539,
+    "id": "413671245381632003",
+    "cleanContent": "I know some C++ (as its a superset of C), but I'm not that good at it <@400116980302217218>",
+    "author": {
+      "id": "115076505549144067",
+      "username": "Aurieh",
+      "avatarURL": "https://cdn.discordapp.com/avatars/115076505549144067/a_9bacea0a732d561ebaf0cf9c6006b649.gif"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697310819,
+    "id": "413671246556037131",
+    "cleanContent": "not kjda? ):",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697311160,
+    "id": "413671247986294786",
+    "cleanContent": "NO",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697313315,
+    "id": "413671257024757760",
+    "cleanContent": "nononononno",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697313522,
+    "id": "413671257892978699",
+    "cleanContent": "",
+    "author": {
+      "id": "365975655608745985",
+      "username": "Pokécord",
+      "avatarURL": "https://cdn.discordapp.com/avatars/365975655608745985/44afc0a0a168e9189a8c5979a7c3b47f.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697313783,
+    "id": "413671258987954197",
+    "cleanContent": "no",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697317097,
+    "id": "413671272887746561",
+    "cleanContent": "what's kjda?",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697317850,
+    "id": "413671276045926400",
+    "cleanContent": "Ok, make sense",
+    "author": {
+      "id": "166878960498638848",
+      "username": "SystemWizard",
+      "avatarURL": "https://cdn.discordapp.com/avatars/166878960498638848/69f6e48ff0ec9df9bcb248c85d19e938.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697325824,
+    "id": "413671309491437583",
+    "cleanContent": "In other words: What enables the module",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697327499,
+    "id": "413671316516765698",
+    "cleanContent": "jda kotlin exts",
+    "author": {
+      "id": "115076505549144067",
+      "username": "Aurieh",
+      "avatarURL": "https://cdn.discordapp.com/avatars/115076505549144067/a_9bacea0a732d561ebaf0cf9c6006b649.gif"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697329270,
+    "id": "413671323945009162",
+    "cleanContent": "Gotcha aurieh",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697330092,
+    "id": "413671327392595988",
+    "cleanContent": "https://github.com/perryprog/Kotlin-JDA",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697332675,
+    "id": "413671338226745344",
+    "cleanContent": "p!catch blackghettogirl",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697332911,
+    "id": "413671339216470026",
+    "cleanContent": "That command does not exist!",
+    "author": {
+      "id": "364745756634251264",
+      "username": "PabloBot",
+      "avatarURL": "https://cdn.discordapp.com/avatars/364745756634251264/23b5a32799e4b5d8ff903dade824d519.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697332947,
+    "id": "413671339367464960",
+    "cleanContent": "You need a pokémon to use this command! Type p!start to get started!",
+    "author": {
+      "id": "365975655608745985",
+      "username": "Pokécord",
+      "avatarURL": "https://cdn.discordapp.com/avatars/365975655608745985/44afc0a0a168e9189a8c5979a7c3b47f.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "119222314964353025",
+      "name": "ultimate-shitposting",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697334765,
+    "id": "413671346992840704",
+    "cleanContent": "¯\\_(ツ)_/¯",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697337553,
+    "id": "413671358686429184",
+    "cleanContent": "don't need it",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697339241,
+    "id": "413671365766414338",
+    "cleanContent": "that's my fork of minns which is maintained",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697356966,
+    "id": "413671440110321664",
+    "cleanContent": "Hello",
+    "author": {
+      "id": "302153966442250240",
+      "username": "NibiiroShizuka",
+      "avatarURL": "https://cdn.discordapp.com/avatars/302153966442250240/d4a740d47a558d2e34215dfe60c758fd.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697359266,
+    "id": "413671449757351946",
+    "cleanContent": "But then again i think there is also a problematic behind that logic",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697366792,
+    "id": "413671481323552768",
+    "cleanContent": "I feel like i planned on doing that before...",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697371567,
+    "id": "413671501351616512",
+    "cleanContent": "Is this a command or a mehod you call?",
+    "author": {
+      "id": "166878960498638848",
+      "username": "SystemWizard",
+      "avatarURL": "https://cdn.discordapp.com/avatars/166878960498638848/69f6e48ff0ec9df9bcb248c85d19e938.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697374910,
+    "id": "413671515372912662",
+    "cleanContent": "(Yawns) isnt it a bit early to be invoking clang matt?",
+    "author": {
+      "id": "188346309139234816",
+      "username": "🐺Commander Bullslayer🐺",
+      "avatarURL": "https://cdn.discordapp.com/avatars/188346309139234816/297bb3fd593512263945a0d20afdf531.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697378386,
+    "id": "413671529952444429",
+    "cleanContent": "It works as a method.",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697389578,
+    "id": "413671576895094786",
+    "cleanContent": "No, I'm going to sleep shortly",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697390250,
+    "id": "413671579713667082",
+    "cleanContent": "Basically when a command is triggered, it calls the task",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697393099,
+    "id": "413671591663108116",
+    "cleanContent": "...or school",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697399569,
+    "id": "413671618800386058",
+    "cleanContent": "Lol",
+    "author": {
+      "id": "188346309139234816",
+      "username": "🐺Commander Bullslayer🐺",
+      "avatarURL": "https://cdn.discordapp.com/avatars/188346309139234816/297bb3fd593512263945a0d20afdf531.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697401957,
+    "id": "413671628816252931",
+    "cleanContent": "Which should check for the data",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697404210,
+    "id": "413671638266281994",
+    "cleanContent": "Not that I know of, no",
+    "author": {
+      "id": "137268170019831808",
+      "username": "Malware",
+      "avatarURL": "https://cdn.discordapp.com/avatars/137268170019831808/2d1a03e3246f68fd70940158debd8d12.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "216219467959500800",
+      "name": "programming-in-game",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697405397,
+    "id": "413671643244658709",
+    "cleanContent": "Whichever comes first",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "360712338741002242",
+      "name": "general",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697406820,
+    "id": "413671649213284353",
+    "cleanContent": "and set the switch",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697409055,
+    "id": "413671658587553802",
+    "cleanContent": "Makes sense",
+    "author": {
+      "id": "166878960498638848",
+      "username": "SystemWizard",
+      "avatarURL": "https://cdn.discordapp.com/avatars/166878960498638848/69f6e48ff0ec9df9bcb248c85d19e938.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697409327,
+    "id": "413671659728404480",
+    "cleanContent": "Yo",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697411787,
+    "id": "413671670046392320",
+    "cleanContent": "should I use kda?",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "132632676225122304",
+      "name": "testing-[\\]",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697415575,
+    "id": "413671685934415872",
+    "cleanContent": "db!yesno",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "132632676225122304",
+      "name": "testing-[\\]",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697416060,
+    "id": "413671687968522250",
+    "cleanContent": "",
+    "author": {
+      "id": "210363111729790977",
+      "username": "dunctebot",
+      "avatarURL": "https://cdn.discordapp.com/avatars/210363111729790977/5d0abdc0d13bc11d25b2a01ce1b4c05a.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "132632676225122304",
+      "name": "testing-[\\]",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697425537,
+    "id": "413671727718203393",
+    "cleanContent": "ha you spelled it wrong",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "132632676225122304",
+      "name": "testing-[\\]",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697427401,
+    "id": "413671735536254978",
+    "cleanContent": "<@!280001404020588544> https://im.going-g.host/XfIYvWtz.png",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697431007,
+    "id": "413671750660915201",
+    "cleanContent": "doesn't count",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "132632676225122304",
+      "name": "testing-[\\]",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697433516,
+    "id": "413671761184292864",
+    "cleanContent": "Dam, seems like something that should be..m",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "216219467959500800",
+      "name": "programming-in-game",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697444913,
+    "id": "413671808986906637",
+    "cleanContent": "hold on the image is loading",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697452735,
+    "id": "413671841794883586",
+    "cleanContent": "And since the command not proceding any further until the execution has finished of the check module (thanks to await), it won't do anything until there has been a result",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697455414,
+    "id": "413671853031161856",
+    "cleanContent": "on a cell hotspot",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697460037,
+    "id": "413671872421560320",
+    "cleanContent": "At least that is how i think it works",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697460200,
+    "id": "413671873105231873",
+    "cleanContent": "In the pic, the green paint is 5x5 squares with a 1x1x1 hitbox. The peeling paint is 3x3 squares with a 1x1x1 hitbox. So along the wall there are these various little invisi-blocks that stick out & interfere with placing tables, timbers, etc",
+    "author": {
+      "id": "240831370560012289",
+      "username": "Stori3D_Past",
+      "avatarURL": "https://cdn.discordapp.com/avatars/240831370560012289/46c96b9f441ff3426572a7830c9052d0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "313704145695670273",
+      "name": "modding",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697460728,
+    "id": "413671875319824384",
+    "cleanContent": "I think I remember something about it being forced to be a user thing on porpoise...",
+    "author": {
+      "id": "137268170019831808",
+      "username": "Malware",
+      "avatarURL": "https://cdn.discordapp.com/avatars/137268170019831808/2d1a03e3246f68fd70940158debd8d12.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "216219467959500800",
+      "name": "programming-in-game",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697474724,
+    "id": "413671934023434240",
+    "cleanContent": ">kda\nit's kjda so it doesn't count 😉",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697477512,
+    "id": "413671945717153792",
+    "cleanContent": "Ah yes... on dolphins",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "216219467959500800",
+      "name": "programming-in-game",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697479888,
+    "id": "413671955682557953",
+    "cleanContent": "As i said, this is the first time i have been working this much with Json",
+    "author": {
+      "id": "112559794543468544",
+      "username": "EnK_",
+      "avatarURL": "https://cdn.discordapp.com/avatars/112559794543468544/e69b8b9639adf8e33f8d95ff1cbb1abb.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697480323,
+    "id": "413671957507080193",
+    "cleanContent": "Yes",
+    "author": {
+      "id": "137268170019831808",
+      "username": "Malware",
+      "avatarURL": "https://cdn.discordapp.com/avatars/137268170019831808/2d1a03e3246f68fd70940158debd8d12.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "216219467959500800",
+      "name": "programming-in-game",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697483992,
+    "id": "413671972896112640",
+    "cleanContent": "You should set a debug point and see whats going on in that task",
+    "author": {
+      "id": "166878960498638848",
+      "username": "SystemWizard",
+      "avatarURL": "https://cdn.discordapp.com/avatars/166878960498638848/69f6e48ff0ec9df9bcb248c85d19e938.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697490904,
+    "id": "413672001887141888",
+    "cleanContent": ".",
+    "author": {
+      "id": "368674607093514250",
+      "username": "OB",
+      "avatarURL": "https://cdn.discordapp.com/avatars/368674607093514250/4f35a87d90b83b438b81af70d9db259e.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "113743192305827841",
+      "name": "testing-^_`",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697494291,
+    "id": "413672016093249557",
+    "cleanContent": "idc",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697496841,
+    "id": "413672026788724738",
+    "cleanContent": "Json is good for saving stuff",
+    "author": {
+      "id": "166878960498638848",
+      "username": "SystemWizard",
+      "avatarURL": "https://cdn.discordapp.com/avatars/166878960498638848/69f6e48ff0ec9df9bcb248c85d19e938.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "381889909113225237",
+      "name": "dotnet_discord-net",
+      "guild": {
+        "name": "Discord API",
+        "id": "81384788765712384"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697501611,
+    "id": "413672046795423744",
+    "cleanContent": "Perry is your avy a horse?",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697510659,
+    "id": "413672084745486346",
+    "cleanContent": "aaaaaaaa",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697515022,
+    "id": "413672103045496852",
+    "cleanContent": "also <@!191231307290771456> \nhttps://github.com/perryprog/Kotlin-JDA/blob/master/src/examples/kotlin/Runner.kt",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697516163,
+    "id": "413672107831197699",
+    "cleanContent": ":>",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697525724,
+    "id": "413672147932938240",
+    "cleanContent": "<@!280001404020588544> still don't care",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697529840,
+    "id": "413672165196562432",
+    "cleanContent": "):",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697534029,
+    "id": "413672182766501898",
+    "cleanContent": "Fudging automation hating ksh.",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "216219467959500800",
+      "name": "programming-in-game",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697536204,
+    "id": "413672191889244160",
+    "cleanContent": "oi duncte",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697537768,
+    "id": "413672198448873472",
+    "cleanContent": "because my main class is in java",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697542082,
+    "id": "413672216543100932",
+    "cleanContent": "oh",
+    "author": {
+      "id": "280001404020588544",
+      "username": "perryprog",
+      "avatarURL": "https://cdn.discordapp.com/avatars/280001404020588544/d958e37f81f45a2d18289c64112cfe22.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697543304,
+    "id": "413672221668802578",
+    "cleanContent": "What does your username mean",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697557049,
+    "id": "413672279319248908",
+    "cleanContent": "Just got funnybook for the dominus, closest thing ill ever get to a \"titanium white\" dominus 😥",
+    "author": {
+      "id": "215336456389001217",
+      "username": "Gragas",
+      "avatarURL": "https://cdn.discordapp.com/avatars/215336456389001217/98d7918efbf23c0ba07a29d07009516e.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "284377218296053760",
+      "name": "fashion-league",
+      "guild": {
+        "name": "Rocket League",
+        "id": "152517096104919042"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697557237,
+    "id": "413672280108040193",
+    "cleanContent": "<@400116980302217218> it's my full name joined together",
+    "author": {
+      "id": "191231307290771456",
+      "username": "duncte123",
+      "avatarURL": "https://cdn.discordapp.com/avatars/191231307290771456/7ad4ebc83df0587ca402a23a6955bae0.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697558429,
+    "id": "413672285107388416",
+    "cleanContent": "More like fudging OP scripter hating ksh...",
+    "author": {
+      "id": "137268170019831808",
+      "username": "Malware",
+      "avatarURL": "https://cdn.discordapp.com/avatars/137268170019831808/2d1a03e3246f68fd70940158debd8d12.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "216219467959500800",
+      "name": "programming-in-game",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697564901,
+    "id": "413672312253186059",
+    "cleanContent": "why'd you make your main class java 🤔",
+    "author": {
+      "id": "115076505549144067",
+      "username": "Aurieh",
+      "avatarURL": "https://cdn.discordapp.com/avatars/115076505549144067/a_9bacea0a732d561ebaf0cf9c6006b649.gif"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697567770,
+    "id": "413672324286644234",
+    "cleanContent": "That too",
+    "author": {
+      "id": "92821707739394048",
+      "username": "Matterom",
+      "avatarURL": "https://cdn.discordapp.com/avatars/92821707739394048/188b0b59ed38caa9e28042ae4be96574.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "216219467959500800",
+      "name": "programming-in-game",
+      "guild": {
+        "name": "Keen Software House",
+        "id": "125011928711036928"
+      }
+    }
+  },
+  {
+    "createdTimestamp": 1518697568065,
+    "id": "413672325523701762",
+    "cleanContent": "and what's that",
+    "author": {
+      "id": "400116980302217218",
+      "username": "Source",
+      "avatarURL": "https://cdn.discordapp.com/avatars/400116980302217218/621bc32b265ea74ca2fb0373d3a6e169.png?size=2048"
+    },
+    "channel": {
+      "type": "text",
+      "id": "110373943822540800",
+      "name": "general",
+      "guild": {
+        "name": "Discord Bots",
+        "id": "110373943822540800"
+      }
+    }
+  }
+]
